@@ -1,0 +1,272 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Todd Haselton",
+            "title": "Samsung's Neon 'artificial humans' look like super-realistic video chatbots - CNBC",
+            "description": "Samsung Neon isn't a robot or a voice assistant like Siri or Alexa. Instead, it's a simulated human assistant that appears on a screen and learns about people to help it give intelligent responses -- think of it like an animated chatbot.",
+            "url": "https://www.cnbc.com/2020/01/06/samsung-neon-artificial-human-announced-at-ces-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106323394-1578355949787screenshot2020-01-06at7.10.33pm.png?v=1578355992",
+            "publishedAt": "2020-01-07T07:01:00Z",
+            "content": "Samsung's STAR Labs research group announced a new \"artificial human\" called Neon early Tuesday morning at CES 2020.\r\nNeon isn't a robot or a voice assistant like Siri or Alexa. Instead, it's a simulated human assistant that appears on a screen and learns abo… [+2513 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "TOI 700 d: Earth-sized planet found relatively nearby - Al Jazeera English",
+            "description": "TESS discovers Earth-sized world orbiting a star about 100 light years from Earth, NASA announces.",
+            "url": "https://www.aljazeera.com/news/2020/01/toi-700-earth-sized-planet-nearby-200107062149197.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/7/031b38199b05419499aae625e736d8b6_18.jpg",
+            "publishedAt": "2020-01-07T06:38:00Z",
+            "content": "NASA has announced that its planet hunter satellite TESS discovered an Earth-sized world within the habitable range of its star, which could allow the presence of liquid water.\r\nThe planet, named \"TOI 700 d\", is relatively close to Earth: only 100 light years… [+2608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motor1.com"
+            },
+            "author": "Adrian Padeanu",
+            "title": "Sony Unexpectedly Unveils Vision-S Concept Car At CES 2020 - Motor1 UK",
+            "description": "Will we get the chance to drive the EV in Gran Turismo Sport?",
+            "url": "https://uk.motor1.com/news/391406/sony-vision-s-concept-car/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/Wxq1r/s3/sony-vision-s-concept.jpg",
+            "publishedAt": "2020-01-07T06:13:15Z",
+            "content": "We usually associate the Sony brand with the Walkman music player, the Vaio laptops, Bravia TVs or the PlayStation gaming console. While the tech giant does have a bunch of new products to show at CES this year from its typical area of expertise, the Tokyo-ba… [+1821 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Paul LeBlanc, CNN",
+            "title": "Washington Post: Trump administration drafting possible sanctions against Iraq - CNN",
+            "description": "Trump administration officials have started drafting possible sanctions against Iraq should US troops be expelled from the country, three people briefed on the situation told The Washington Post.",
+            "url": "https://www.cnn.com/2020/01/06/politics/trump-iraq-sanctions/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200106155805-donald-trump-0103-super-tease.jpg",
+            "publishedAt": "2020-01-07T04:30:00Z",
+            "content": "Washington(CNN) Trump administration officials have started drafting possible sanctions against Iraq should US troops be expelled from the country, three people briefed on the situation told The Washington Post. \r\nThe news comes after the Iraqi Parliament vot… [+1893 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "US on track for one of the worst flu seasons in decades - KSL.com",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS80NjY5OTM2MC91cy1vbi10cmFjay1mb3Itb25lLW9mLXRoZS13b3JzdC1mbHUtc2Vhc29ucy1pbi1kZWNhZGVz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-01-07T04:25:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US denies Iran's Zarif a visa to attend UN - US official - Aljazeera.com",
+            "description": "Zarif's attendance at the Security Council was planned before Soleimani was killed escalating global tensions.",
+            "url": "https://www.aljazeera.com/news/2020/01/denies-iran-zarif-visa-attend-official-200107032757074.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/7/0780b706055844ff8ff7db207fe2ebf8_18.jpg",
+            "publishedAt": "2020-01-07T04:21:00Z",
+            "content": "The United States has denied a visa to Iran's Foreign Minister Mohammad Javad Zarif that would have allowed him to attend a United Nations Security Council meeting in New York on Thursday, a US official said.\r\nMonday's comments by the official, who spoke on c… [+2308 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Phil LeBeau, Kathy Liu, Meghan Reeder",
+            "title": "Carlos Ghosn's $350,000 getaway flight - CNBC",
+            "description": "A source close to the investigation tells CNBC that a firm listed in Dubai agreed to pay $350,000 to MNG Jet for two flights.",
+            "url": "https://www.cnbc.com/2020/01/07/nissan-ex-chairman-carlos-ghosns-350000-getaway-flight.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105862954-1555906581905gettyimages-1128826860.jpeg?v=1578371390",
+            "publishedAt": "2020-01-07T04:12:00Z",
+            "content": "As Nissan's former Chairman Carlos Ghosn made his way from Osaka, Japan to Istanbul, Turkey in a private jet, the price of the flight was likely the least of his concerns.\r\nA source close to the investigation tells CNBC that a firm listed in Dubai agreed to p… [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Lauren Piester",
+            "title": "Hannah and Peter's Bachelor Reunion Was Truly Shocking - E! NEWS",
+            "description": "Peter Weber and Hannah Brown just had the most intense conversation on <i>The Bachelor</i> premiere and we are truly shocked",
+            "url": "https://www.eonline.com/news/1107957/the-real-bachelor-premiere-reunion-between-hannah-brown-and-peter-weber-was-genuinely-shocking",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202006/rs_600x600-200106154546-600x600.the-bachelor-premiere-hannah-brown-lp.1619.jpg?fit=around|600:467&crop=600:467;center,top&output-quality=90",
+            "publishedAt": "2020-01-07T04:00:00Z",
+            "content": "Hannah: \"There was still something when I saw you at [After the Final Rose], I felt like.\" \r\nPeter: \"I'm just being very honest with you. Watching that episode that night live and seeing that happen, it was just like OK, for me, that's kind of, like that's it… [+793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "AMD at CES 2020 in 10 minutes - Engadget",
+            "description": "Get More Engadget: • Like us on Facebook: http://www.facebook.com/engadget • Follow us on Twitter: http://www.twitter.com/engadget • Follow us on Instagram: ...",
+            "url": "https://www.youtube.com/watch?v=-5-k5l8aaKY",
+            "urlToImage": "https://i.ytimg.com/vi/-5-k5l8aaKY/maxresdefault.jpg",
+            "publishedAt": "2020-01-07T03:32:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Amy Thompson",
+            "title": "SpaceX Launches 60 Starlink Satellites, Nails Rocket Landing in Record-Breaking Flight - Space.com",
+            "description": "SpaceX now operates more satellites than any other company. Thousands more will follow.",
+            "url": "https://www.space.com/spacex-starlink-2-launch-success.html",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/oSv7DqCL84EtWXxxwz3hZG-1200-80.jpg",
+            "publishedAt": "2020-01-07T03:32:00Z",
+            "content": "CAPE CANAVERAL, Fla. — SpaceX kicked off 2020 with the record-breaking launch of its third batch of Starlink satellites. Sixty of the internet-beaming satellites launched atop a used Falcon 9 booster on Monday, Jan. 6. \r\nThe sooty Falcon 9 rocket roared to li… [+7344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "CBS News Poll: Sanders, Biden, Buttigieg tied in Iowa - CBS News",
+            "description": "With just under a month before the Iowa caucuses, a new CBS News poll suggests there is a 3-way tie in the \"Hawkeye State\" between Bernie Sanders, Joe Biden,...",
+            "url": "https://www.youtube.com/watch?v=SWWZUCZHMCM",
+            "urlToImage": "https://i.ytimg.com/vi/SWWZUCZHMCM/maxresdefault.jpg",
+            "publishedAt": "2020-01-07T02:10:29Z",
+            "content": "With just under a month before the Iowa caucuses, a new CBS News poll suggests there is a 3-way tie in the \"Hawkeye State\" between Bernie Sanders, Joe Biden, and Pete Buttigieg. In New Hampshire, Bernie Sanders continues to gain momentum. CBS News campaign re… [+1245 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Karma Allen",
+            "title": "Driver shoots 2 children who threw snowballs at car, police say - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/US/manhunt-underway-milwaukee-driver-shot-children-throwing-snowballs/story?id=68106906",
+            "urlToImage": "https://s.abcnews.com/images/Live/snowball-stock-gty-jef-191223_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-01-07T02:07:13Z",
+            "content": "Police are searching for a Milwaukee driver who allegedly shot two children who threw snowballs at their vehicle.\r\nOfficers with the Milwaukee Police Department said they're searching for the driver of a white Toyota who shot a 12-year-old girl and a 13-year-… [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Australia fires: Almost 2,000 homes destroyed in marathon crisis - BBC News",
+            "description": "Firefighters are frantically preparing for fresh danger, including a possible new \"mega blaze\".",
+            "url": "https://www.bbc.com/news/world-australia-51015536",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p07zlzky.jpg",
+            "publishedAt": "2020-01-07T02:04:59Z",
+            "content": "Media captionAustralia's capital Canberra is engulfed in smoke\r\nAlmost 2,000 houses have been destroyed in Australia's months-long bushfire crisis, officials say, as crews prepare frantically for worsening conditions.\r\nAfter ferocious conditions last week, fi… [+5348 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kim Bellware, Lateshia Beachum, Herman Wong",
+            "title": "Pennsylvania Turnpike crash: 9-year-old boy and two UPS drivers among victims of deadly pileup - The Washington Post",
+            "description": "The crash snarled two tractor-trailers, a charter bus and a passenger vehicle, killing at least five people.",
+            "url": "https://www.washingtonpost.com/nation/2020/01/05/pennsylvania-turnpike-crash/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/Ix1BfWcWWMQVwQIqakF7VHGU7-E=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EVPG54BP3EI6VFY3IO7MH74YMA.jpg",
+            "publishedAt": "2020-01-07T01:19:00Z",
+            "content": "The crash occurred in the turnpikes westbound lanes around 3:30 a.m. in Mount Pleasant Township, about 30 miles east of Pittsburgh, said Carl DeFebo, a spokesman for the Pennsylvania Turnpike. It prompted officials to shut down an 86-mile stretch of the turnp… [+4615 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chaim Gartenberg",
+            "title": "Intel announces its first discrete DG1 GPU - The Verge",
+            "description": "Intel teased its first discrete GPU, codenamed “DG1,” at CES 2020, marking the chipmaker’s first serious foray into the graphics game as it seeks to lessen its reliance on AMD and Nvidia for discrete graphics chips.",
+            "url": "https://www.theverge.com/2020/1/6/21054244/intel-dg1-discrete-gpu-first-announcement-ces-2020",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_FxzRK3onh2xmsYBb26QRmLMLQo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11447785/acastro_180529_1777_intel_0002.0.jpg",
+            "publishedAt": "2020-01-07T01:14:43Z",
+            "content": "Illustration by Alex Castro / The Verge\r\nIntel has dominated the CPU game for decades, and at CES 2020, the company officially announced its first discrete GPU codenamed DG1, marking a big step forward for Intels computing ambitions. \r\nThere were almost no de… [+1601 chars]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": "Zolan Kanno-Youngs",
+            "title": "Mexican Asylum Seekers Could Now Be Deported to Guatemala - The New York Times",
+            "description": "A plan that homeland security officials once praised as a deterrent for Central Americans considering the long journey through Mexico is being expanded.",
+            "url": "https://www.nytimes.com/2020/01/06/us/politics/mexican-asylum-seekers-guatemala.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/01/06/us/politics/06dc-dhs/06dc-dhs-facebookJumbo.jpg",
+            "publishedAt": "2020-01-07T01:12:00Z",
+            "content": "Border arrests have declined by 70 percent since May, the height of crossings last year, driven by multiple policies aiming to prevent Central Americans from seeking asylum in the United States. \r\nBut as violence has driven many to flee north, about 17,000 Me… [+1532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pagesix.com"
+            },
+            "author": "Oli Coleman",
+            "title": "Tim Allen fine with being butt of Ricky Gervais' only regretted Golden Globes joke - Page Six",
+            "description": "Allen says that Gervais “kind of” apologized for the joke, which “went flat.”",
+            "url": "https://pagesix.com/2020/01/06/tim-allen-fine-with-being-butt-of-ricky-gervais-only-regretted-golden-globes-joke/",
+            "urlToImage": "https://nyppagesix.files.wordpress.com/2020/01/tim-allen-ricky-gervais.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2020-01-07T00:39:00Z",
+            "content": "The hottest ticket in Hollywood last week was not for the Golden Globes but for the rehearsals (at least for personal publicists).\r\nAlthough they were closed, some managed to sneak in so they could prepare their clients for host Ricky Gervais inevitable barbs… [+1009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cbssports.com"
+            },
+            "author": "",
+            "title": "Tom Brady reportedly played through foot injury on top of elbow issues towards the end of Patriots season - CBS Sports",
+            "description": "Tom Brady was banged up by the end of 2019",
+            "url": "https://www.cbssports.com/nfl/news/tom-brady-reportedly-played-through-foot-injury-on-top-of-elbow-issues-towards-the-end-of-patriots-season/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/12/22/b2c130e3-2074-455a-8f19-81483a1b8750/thumbnail/1200x675/18d62c53a9fd5640bcf1562b6bd812da/new-team.jpg",
+            "publishedAt": "2020-01-07T00:38:00Z",
+            "content": "Tom Brady is starting his offseason earlier than expected this year. For the first time since 2009, Brady's Patriots were knocked out of the playoffs on Wild-Card Weekend and are now looking at an offseason that is filled with a number of questions regarding … [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Geneva Sands, CNN",
+            "title": "Trump administration to collect DNA data from some migrants in custody - CNN",
+            "description": "The Trump administration will begin collecting DNA samples from some migrants in US Customs and Border Protection custody as part of a pilot program, something it says will allow the agency to be in compliance with an upcoming regulation change.",
+            "url": "https://www.cnn.com/2020/01/06/politics/dna-samples-migrants-trump-administration/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190904173249-02-migrants-border-patrol-190702-super-tease.jpg",
+            "publishedAt": "2020-01-07T00:29:00Z",
+            "content": "Washington (CNN)The Trump administration will begin collecting DNA samples from some migrants in US Customs and Border Protection custody as part of a pilot program, something it says will allow the agency to be in compliance with an upcoming regulation chang… [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Mariah Haas",
+            "title": "Brad Pitt jokes he has a 'disaster of a personal life,' calls himself 'trash mag fodder' - Fox News",
+            "description": "As an A-list star, Brad Pitt is used to making headlines and getting his picture taken by the paparazzi.",
+            "url": "https://www.foxnews.com/entertainment/brad-pitt-jokes-disaster-personal-life",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/brad-pitt-ad-astra-tokyo-getty.jpg",
+            "publishedAt": "2020-01-07T00:09:53Z",
+            "content": "As an A-list star, Brad Pitt is used to making headlines and getting his picture taken by the paparazzi.\r\nThe 56-year-old and his \"Once Upon a Time in Hollywood\" co-star, Leonardo DiCaprio, recently spoke on Marc Maron's “WTF” podcast, where the two actors br… [+2548 chars]"
+        }
+    ]
+}
+
+{
+    "status": "error",
+    "code": "rateLimited",
+    "message": "You have made too many requests recently. Developer accounts are limited to 500 requests over a 24 hour period (250 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+}
